@@ -2,10 +2,10 @@
 ### Employee Database: A Mystery in Two Parts
 I am uploading the following files to my repository:
 
-* [Image file of ERD](EmployeeSQL/QuickDBD-Free%20Diagram.png)
+* [Entity Relationship Diagram](EmployeeSQL/QuickDBD-Free%20Diagram.png) - Image file 
 
-* [SQL file of the schemata table](EmployeeSQL/QuickDBD-Free%20Diagram.sql)
+* [Schemata table](EmployeeSQL/QuickDBD-Free%20Diagram.sql) - SQL file
 
-* [SQL file of queries](EmployeeSQL/query.sql)
+* [Queries](EmployeeSQL/query.sql) - SQL file
 
-* [BONUS with Jupyter Notebook](SQL_pandas.ipynb)
+* [BONUS](SQL_pandas.ipynb) - Jupiter Notebook
