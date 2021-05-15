@@ -10,4 +10,4 @@ I am uploading the following files to my repository:
 
 * [Quick Database](EmployeeSQL/quickdbd.txt) - Text file
 
-** [BONUS](SQL_pandas.ipynb) - Jupiter Notebook
+* [BONUS](SQL_pandas.ipynb) - Jupiter Notebook
