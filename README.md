@@ -9,3 +9,4 @@ I am uploading the following files to my repository:
 * [Queries](EmployeeSQL/query.sql) - SQL file
 
 * [BONUS](SQL_pandas.ipynb) - Jupiter Notebook
+* [Quick Database](EmployeeSQL/quickdbd.txt) - Text file
