@@ -1,5 +1,5 @@
 # SQL Challenge Homework - Solution
-### Employee Database: A Mystery in Two Parts
+## Employee Database: A Mystery in Two Parts
 I am uploading the following files to my repository:
 
 * [Entity Relationship Diagram](EmployeeSQL/QuickDBD-Free%20Diagram.png) - Image file 
@@ -15,7 +15,7 @@ I am uploading the following files to my repository:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## SQL Challenge Homework Instructions
+# SQL Challenge Homework Instructions
 
 #### Data Modeling
 
